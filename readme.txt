@@ -1,5 +1,3 @@
-Yirou Qian
-4354716429
 
 Compilation Steps: a. I use Xcode to write my lab1 code in my MacBook Pro. 
                       Also in my zip file, there is a file named "LAB1.xcodeproj". 
