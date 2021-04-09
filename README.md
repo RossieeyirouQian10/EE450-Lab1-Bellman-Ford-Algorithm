@@ -1,8 +1,8 @@
 # EE450-Lab1-Bellman-Ford-Algorithm
-Implement Bellman-Ford algorithm in C++.
+# Implement Bellman-Ford algorithm in C++.
 
 
-Compilation Steps: 
+# Compilation Steps: 
                    a. I use Xcode to write my lab1 code in my MacBook Pro. 
                       Also in my zip file, there is a file named "LAB1.xcodeproj". 
 
